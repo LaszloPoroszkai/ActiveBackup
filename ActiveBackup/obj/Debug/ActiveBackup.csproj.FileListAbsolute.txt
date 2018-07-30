@@ -1,0 +1,10 @@
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\bin\Debug\ActiveBackup.exe.config
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\bin\Debug\ActiveBackup.exe
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\bin\Debug\ActiveBackup.pdb
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.csprojAssemblyReference.cache
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.Form1.resources
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.Properties.Resources.resources
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.csproj.GenerateResource.cache
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.csproj.CoreCompileInputs.cache
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.exe
+C:\Users\MoxSapphire\source\repos\ActiveBackup\ActiveBackup\obj\Debug\ActiveBackup.pdb
